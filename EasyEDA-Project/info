@@ -1,0 +1,120 @@
+{
+  "uuid": "70fc0d953ad0196c75d9571dea3a3082",
+  "path": "Offline/Solder%20practice",
+  "name": "Solder practice",
+  "content": "",
+  "created_at": "2023-02-27 17:21:58",
+  "updated_at": "2023-02-28 18:30:43",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "bafe38b05c598abf3e6b045fc1a2028d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e691ecce73f74adc83e15434646ffa2d": 24,
+        "2fa53d590f544429ab8fcbd581d715c1": 30,
+        "ed9eb2faffb34286820a54a14e9e9e24": 30,
+        "bb009484ef804a24ac5d18c54b249586": 30,
+        "01f8feef49be43dcbfbe672254cb7b57": 30
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1k",
+          30,
+          "R1206",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R25,R26,R27,R28,R29,R30",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "8e9b1be4bcb6420dbd1d09bf04b02792",
+            "uuid": "2fa53d590f544429ab8fcbd581d715c1"
+          }
+        ],
+        [
+          "1k",
+          30,
+          "R0805",
+          "R31,R32,R33,R34,R35,R36,R37,R38,R39,R40,R41,R42,R43,R44,R45,R46,R47,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59,R60",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "1k",
+          30,
+          "R0603",
+          "R61,R62,R63,R64,R65,R66,R67,R68,R69,R70,R71,R72,R73,R74,R75,R76,R77,R78,R79,R80,R81,R82,R83,R84,R85,R86,R87,R88,R89,R90",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          30,
+          "R0402",
+          "R91,R92,R93,R94,R95,R96,R97,R98,R99,R100,R101,R102,R103,R104,R105,R106,R107,R108,R109,R110,R111,R112,R113,R114,R115,R116,R117,R118,R119,R120",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ]
+      ],
+      "updateTime": 1677565556,
+      "createTime": 1677478918,
+      "histories": [],
+      "created_at": "2023-02-27 17:21:58",
+      "updated_at": "2023-02-28 17:25:56"
+    },
+    {
+      "uuid": "e7ede9d7251f64f69f197869ed8f472d",
+      "puuid": "70fc0d953ad0196c75d9571dea3a3082",
+      "title": "PCB_Solder practice",
+      "filename": "PCB_Solder practice.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "af1bce44cacb47cda450f7e17ba302b4": 24,
+        "b60f399a7a7e41848b2be1eb49c79141": 30,
+        "398691f1f785460098bbe5ee6590333c": 30,
+        "fafd024f554e426eb74cf4a204aa88b0": 30,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 30
+      },
+      "BOM": [],
+      "updateTime": 1677569443,
+      "createTime": 1677479181,
+      "histories": [],
+      "created_at": "2023-02-27 17:26:21",
+      "updated_at": "2023-02-28 18:30:43"
+    }
+  ],
+  "sort": [],
+  "title": "Solder practice",
+  "foldername": "Solder practice",
+  "schfilename": "Solder practice.json",
+  "schfilemtime": 1677565556815
+}
